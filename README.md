@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Medical-Imaging.jpg" alt="Medical Imaging" width="1080" style="border-radius: 15px;">
+</p>
+
 # OrganInsight
 
 ## Unveiling the Depths of Medical Imaging with AI
